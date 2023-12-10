@@ -1,7 +1,22 @@
-# TimeSeries_Anomalies
+# Time Series Anomolies Dections
 
-Step 1: Data Formating & Cleaning
+The presented tasks aim to identify an anomaly detection mechanism on time series data.
+Should there be a sudden or drastic fluctuation from expected statistical measures, these values should be predicted (or flagged) as potential issues which require action or investigation.
 
-Step 2: Data Exploration
+Step 1: Data Formating, Cleaning and Exploration
+-> Testing and Training dataset data cleaning and formatting
+--> Addressing NaN values in Class labels
+--> Timestamp conversions
 
-Step 3:
+-> Visualization
+--> Graphing <timestamp> and <eventTime> data
+--> Overlaying Class column labels on train & test data
+
+Step 2: 
+
+Step 3: 
+
+
+Findings.
+
+
