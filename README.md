@@ -8,7 +8,7 @@ CreateDabase-imports.sql
 -> Database creation storing training and testing datasets
 
 Dervico.ipynb
--> Random Forest and Support Vector Machines for Time Series Classification of Anomaly Classes
+-> Random Forest and Support Vector Machines for Time Series Classification of Anomaly Classes \n
 SVM Training AUC: 0.90
 SVM Testing AUC: 0.43
 
