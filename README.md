@@ -4,20 +4,23 @@ The presented tasks aim to identify an anomaly detection mechanism on time serie
 Should there be a sudden or drastic fluctuation from expected statistical measures,
 these values should be predicted (or flagged) as potential issues which require action or investigation.
 
-Step 1: Data Formating, Cleaning and Exploration
--> Testing and Training dataset data cleaning and formatting
---> Addressing NaN values in Class labels
---> Timestamp conversions
+CreateDabase-imports.sql
+-> Database creation storing training and testing datasets
 
--> Visualization
---> Graphing <timestamp> and <eventTime> data
---> Overlaying Class column labels on train & test data
+Dervico.ipynb
+-> Random Forest and Support Vector Machines for Time Series Classification of Anomaly Classes
+SVM Training AUC: 0.90
+SVM Testing AUC: 0.43
 
-Step 2: 
+RF Training AUC: 1.00
+RF Testing AUC: 0.73
 
-Step 3: 
+Dervico_Z-Score.ipynb
+-> Addressing anomaly classes using Z-Scores with varying thresholds
+
+SQL-Query.sql
+-> Data validation on anomaly classes
 
 
-Findings.
 
 
